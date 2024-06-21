@@ -102,7 +102,7 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">TipologIA: IA para Reconocimiento Catastral</h3>
+<h3 align="center">Usando Ejecutor en Windows</h3>
 <div align="center">
 <a href="https://www.youtube.com/watch?v=qWgsePWo7zc" target="_blank"><img src="https://img.youtube.com/vi/qWgsePWo7zc/0.jpg" width="400" alt="TipologIA"></a>
 <p>
