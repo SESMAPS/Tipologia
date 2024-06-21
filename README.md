@@ -100,6 +100,7 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 ---
 ## Así es el Ejecutor de TipologIA
 ![Logo](img/2-Procesar.png)
+![Logo](img/3-Mapa.png)
 ![Logo](img/4_Evaluar.png)
 ![Logo](img/5_esfericas.png)
 ![Logo](img/6_acerda.png)
@@ -142,7 +143,7 @@ Para utilizar esta herramienta, siga estos pasos:
 
 1. Clona el repositorio:
     ```sh
-    git clone -b v105 https://github.com/SESMAPS/Tipologia.git
+    git clone https://github.com/SESMAPS/Tipologia.git
     ```
 
 2. Navega al directorio del proyecto o abre la carpeta con tu IDE:
