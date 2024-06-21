@@ -11,6 +11,7 @@
 > El archivo "Resultados" contiene una columna que le permitirá ver en un popup el resultado de la imagen predicha <br>
 >Nueva pestaña de mapa, para ver los resultados directamente en el ejecutor
 
+![Logo](img/1_inicio.png)
 
 
 > [!NOTE]
@@ -51,7 +52,6 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 
 ## Adquirir el programa
 > [!IMPORTANT]
-
 >  La solución de IA para Catastro que ofrecemos consta de dos programas:
 >El primero es Entrenador, el cual le permitirá reentrenar nuestro modelo de inteligencia artificial TipologIA para ajustarlo a sus necesidades<br>
 >El Segundo es el Ejecutor, el cual es el programa de escritorio (Linux/Windows), que le permitirá realizar las clasificaciones.<br>
@@ -85,6 +85,12 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 
 
 ---
+## Así es el Ejecutor de TipologIA
+![Logo](img/2-Procesar.png)
+![Logo](img/4_Evaluar.png)
+![Logo](img/5_esfericas.png)
+![Logo](img/6_acerda.png)
+
 
 ## Para desarrollo sigue estos pasos:
 
