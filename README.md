@@ -32,7 +32,7 @@
 
 > [!CAUTION]
 > **Derechos de autor reservados:** 
-> Copyright ©2023. Consultoria SES, David Vásquez, Juan Restrepo
+> Copyright ©2023 - 2024. David Vásquez, Juan Restrepo. Registrado en Dirección Nacional de Derechos de Autor
 
 ## Descripción
 
@@ -53,8 +53,15 @@ Para finalizar hemos incorporado la utilidad que le permite evaluar la precisió
 ## Soluciones para Catastro
 
 Diseñamos productos y servicios especializados que simplifican el reconocimiento predial, optimizan los procesos de conservación catastral y facilitan la difusión de información. Nuestra prioridad es garantizar la interoperabilidad de los datos, asegurando una integración fluida con diversas entidades. Con enfoque en la eficiencia y precisión, proporcionamos soluciones tecnológicas que potencian la gestión integral de la información catastral.
+>1. Visores web geográficos
+>2. Imágenes 360 panorámicas
+>3. Imágenes drone oblícuas
+>4. Ortofotos
+>5. Inteligencia Artificial para reconocimiento predial
 
 ---
+
+
 
 ## Adquirir el programa
 > [!IMPORTANT]
@@ -86,7 +93,7 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 > ¿Cómo acceder al programa?:<br>
 > Pongase en contacto con nosotros y programemos la videoconferencia
 > **Celular:** +57 305 439 2506<br>
-> **Correo:** [ses@workmail.com](mailto:ses@workmail.com)
+> **Correo:** [ses@workmail.com](mailto:ses@workmail.com)<br>
 > **Página Web:** [consultoriases.com](https://consultoriases.com)
 
 
