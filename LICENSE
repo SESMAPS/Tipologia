@@ -1,0 +1,199 @@
+Copyright © 2023-present Strategic & Enviromental Services - SES. All rights reserved
+
+El software denominado Ejecutor TipologIA Versión 1.0.6, desarrollado y distribuido por Consultoría SES, se proporciona "tal cual" sin garantías de ningún tipo, expresas o implícitas. El usuario reconoce al instalar y usar este programa acepta que el uso de este software es bajo su propio riesgo y responsabilidad. Consultoría SES no asume ninguna responsabilidad por la precisión, integridad o utilidad de las inferencias realizadas por el programa, ni por cualquier daño directo, indirecto, incidental, especial, emergente o punitivo que pueda surgir del uso o la imposibilidad de utilizar este software, incluso si se ha advertido de la posibilidad de tales daños. Al utilizar este programa, el usuario acepta los términos y condiciones de la licencia de uso, disponibles en sesmaps.xyz/tipologia/, así como los términos y condiciones generales de Consultoría SES, los cuales se pueden consultar en consultoriases.com/politicas/. 
+Los derechos de autor de Ejecutor TipologIA Versión actual, anteriores y posteriores, pertenecen a Strategic & Environmental Services - SES 2023 de ahora en adelante Consultoría SES. Este software se distribuye sin necesidad de claves de activación ni suscripciones para su uso, y ha sido exhaustivamente probado en entornos operativos variados, incluyendo Ubuntu 22.04 (x64) y Windows 11 23H2 (x64), y usando como base Python 3.10
+
+Consultoría SES de ahora en adelante SES, una empresa de base tecnológica ubicada en la Carrera 27 #12-98 en Pereira, Colombia.
+
+TÉRMINOS Y CONDICIONES GENERALES DE USO DEL SOFTWARE "EJECUTOR DE TIPOLOGÍA"
+Este acuerdo (los "Términos") regula el uso del software denominado "Ejecutor de TipologIA" (el "Software") desarrollado por Consultoría SES (la "Compañía o SES").
+
+ADQUISICIÓN DEL SOFTWARE
+El Licenciatario puede adquirir el Software de dos formas:
+a) Comprando a la Compañía el programa ejecutable "Ejecutor" para los sistemas operativos Linux (Ubuntu 22) y Windows 11.
+b) Comprando a la Compañía los ejecutables, código fuente, modelo de conocimiento, entrenador, documentación del código, así como la cesión de derechos patrimoniales y transferencia de la marca TipologIA.
+USO DEL SOFTWARE
+El Software se vende sin necesidad de licencia, clave, registro de usuario, suscripción o límites en su uso relacionados con la cantidad de imágenes que puede procesar. El Software no requiere conexión a Internet y se ejecuta en la máquina del usuario final, de acuerdo con las especificaciones de hardware recomendadas en el manual o guía de usuario.
+PROPIEDAD INTELECTUAL
+El Software, incluyendo su código fuente, documentación, diseños y estructuras de datos, es propiedad intelectual de la Compañía y está protegido por las leyes de derechos de autor y otras leyes aplicables. Todos los derechos no expresamente otorgados en estos Términos son reservados por la Compañía.
+LIMITACIÓN DE RESPONSABILIDAD
+La Compañía no se hace responsable por resultados erróneos, confusiones o mal funcionamiento del Software en caso de que el volumen de datos a procesar sea excesivo. El Software se proporciona "TAL CUAL" sin garantías de ningún tipo, ya sean expresas o implícitas.
+ACTUALIZACIONES Y SOPORTE
+La Compañía solo proporcionará actualizaciones del Software por petición del Licenciatario y si se establece un contrato adicional con un valor que se estimará según el requerimiento.
+LEGISLACIÓN APLICABLE
+Estos Términos se regirán e interpretarán de acuerdo con las leyes vigentes en Colombia.
+
+Al adquirir y utilizar el Software "Ejecutor de TipologIA", el Licenciatario acepta y se obliga por los presentes Términos y Condiciones.
+
+TÉRMINOS Y CONDICIONES ESPECIFICOS DE USO DEL SOFTWARE "EJECUTOR DE TIPOLOGÍA"
+
+Cláusula 1 - CONCESIÓN DE LICENCIA
+1.1 Concesión de derechos. En consideración al pago del Cliente de las tarifas aplicables, y de conformidad con este Contrato, SES:
+a. Otorga al Cliente un derecho no exclusivo e intransferible para utilizar el software "Ejecutor de TipologIA" ("Software") de acuerdo con la Documentación y Documentos de Pedido aplicables.
+b. Autoriza al Cliente a hacer copias de la Documentación para uso interno en relación con el uso autorizado del Software.
+
+1.2 Condiciones de uso del Software. El Cliente podrá:
+a. Instalar, acceder o almacenar el Software en dispositivos electrónicos.
+b. Hacer copias de respaldo del Software.
+c. Instalar y usar la versión más reciente del Software junto con la versión anterior durante un período de transición razonable no superior a 6 meses.
+
+
+1.3 Restricciones de uso. Salvo que se permita expresamente en este Contrato, el Cliente no podrá:
+a. Vender, arrendar, sublicenciar, distribuir o asignar el Software.
+b. Proporcionar acceso directo al Software a terceros, excepto mediante Aplicaciones de Valor Añadido.
+c. Realizar ingeniería inversa, descompilar o desensamblar el Software.
+d. Intentar eludir las medidas técnicas que controlan el acceso o uso del Software.
+e. Utilizar el Software de forma que infrinja derechos de propiedad intelectual o leyes aplicables.
+f. Eliminar o ocultar avisos de derechos de autor o marcas comerciales en el Software.
+g. Utilizar partes individuales del Software de forma independiente.
+h. Incorporar partes del Software en productos que compitan con el Software.
+i. Someter el Software a licencias de código abierto o de bases de datos abiertas.
+
+1.4 Propiedad intelectual. El Software, incluyendo su código fuente, documentación y materiales relacionados, es propiedad intelectual de SES y está protegido por las leyes de derechos de autor y otras leyes aplicables. Todos los derechos no otorgados expresamente quedan reservados para SES.
+
+Cláusula 2 - MANTENIMIENTO Y SOPORTE
+
+2.1 Clientes en Colombia. SES no proporcionará mantenimiento y soporte para el Software a no ser que el Cliente realice el requerimiento para tal fin, y esté será considerado por SES, y sus costos serán asumidos por el Cliente, mediante un nuevo contrato de compra y venta de soporte.
+2.2 Clientes fuera de Colombia. El Cliente puede obtener servicios de mantenimiento y soporte a través de los distribuidores autorizados de SES según las políticas de estos, y solo cuando exista un contrato que establezca los costos y tiempos según el requierimiento del Cliente.
+
+Cláusula 3 - DATOS
+3.1 Uso de datos. El Cliente solo podrá utilizar los Datos incluidos con el Software según lo permitido en la Documentación y este Contrato.
+3.2 Restricciones de uso de datos. El Cliente no podrá:
+a. Utilizar los Datos para otros productos o servicios no autorizados.
+b. Utilizar los Datos para compilar, mejorar, verificar o complementar bases de datos que vayan a ser revendidas o distribuidas a terceros.
+c. Permitir el uso de los Datos por parte de terceros, excepto mediante Aplicaciones de Valor Añadido.
+3.3 Derechos de atribución. El Cliente incluirá una declaración de atribución reconociendo a SES o sus licenciantes como la fuente de los Datos utilizados en cualquier representación o producto derivado de los mismos.
+
+Cláusula 4 - TÉRMINO Y TERMINACIÓN
+4.1 Término. Este Contrato entrará en vigor en la fecha de aceptación, e instalación y uso por parte del Cliente y permanecerá vigente hasta su terminación de conformidad con lo establecido en esta cláusula.
+4.2 Terminación por incumplimiento. Cualquiera de las partes podrá terminar este Contrato en caso de incumplimiento sustancial de la otra parte, si dicho incumplimiento no se subsana dentro de los 30 días posteriores a la notificación por escrito.
+4.3 Efectos de la terminación. Tras la terminación, el Cliente:
+a. Cesará el acceso y uso del Software.
+b. Eliminará todas las copias del Software en su posesión o control.
+c. Proporcionará evidencia a SES de haber cumplido con lo anterior.
+
+Cláusula 5 - GARANTÍAS Y LIMITACIONES
+5.1 Garantía limitada. SES no se hace responsable por resultados erróneos, confusiones o mal funcionamiento del Software en caso de que el volumen de datos a procesar sea excesivo. El Software se proporciona "TAL CUAL" sin garantías de ningún tipo, ya sean expresas o implícitas.Esta garantía no cubre Software de prueba, evaluación o beta.
+5.2 Exclusión de responsabilidad. Excepto por la garantía limitada anterior, SES no otorga ninguna otra garantía expresa o implícita, incluyendo garantías de comerciabilidad, idoneidad para un propósito particular o no infracción. SES no garantiza que el Software o su uso serán ininterrumpidos, libres de errores o que todos los defectos serán corregidos.
+5.3 Limitación de responsabilidad. En ningún caso SES será responsable por daños indirectos, especiales, incidentales o consecuentes, incluyendo lucro cesante, interrupción de negocios o pérdida de datos, que surjan del uso o la incapacidad de usar el Software, incluso si se ha advertido sobre la posibilidad de tales daños.
+
+Cláusula 6 - INDEMNIZACIÓN
+6.1  Exclusiones. SES no tendrá obligación de defender o indemnizar al Cliente si la reclamación surge de: (i) combinación del Software con productos de terceros, (ii) modificación no autorizada del Software, (iii) uso del Software incumpliendo este Contrato o (iv) continuación del uso después de haberse proporcionado una versión modificada para evitar la infracción.
+6.2 Recurso único. Esta cláusula establece la única responsabilidad de SES y el recurso exclusivo del Cliente con respecto a reclamaciones de infracción.
+6.3 Indemnización. SES no realizará indenmización alguna al Clinte por baja precisión de la inteligencia artificial, que es la base del Software "Ejecutor".
+Cláusula de Limitación de Responsabilidad Extendida:
+SES no será responsable ante el Licenciatario por ningún daño indirecto, incidental, especial, punitivo o consecuente, incluyendo, entre otros, lucro cesante, pérdida de datos, interrupción del negocio o daños similares, incluso si SES ha sido advertida sobre la posibilidad de dichos daños. La responsabilidad total de SES frente al Licenciatario por cualquier reclamación bajo este contrato, ya sea en contrato, agravio, garantía o cualquier otra teoría legal, estará limitada al monto total pagado por el Licenciatario por el Software.
+
+Cláusula de Exención de Garantías Extendida:
+El Licenciatario reconoce y acepta que SES no otorga ninguna garantía, expresa o implícita, con respecto al rendimiento, la precisión, la idoneidad para un propósito particular, la comercialización o la no infracción del Software. SES no garantiza que el Software sea libre de errores o que su funcionamiento será ininterrumpido. El Licenciatario asume todos los riesgos asociados con el uso del Software.
+
+Cláusula de Indemnización Recíproca:
+El Licenciatario acepta indemnizar y eximir de responsabilidad a SES, sus directores, empleados y agentes de cualquier reclamación, demanda, pérdida, responsabilidad, daño o gasto (incluidos honorarios legales razonables) derivados del uso del Software por parte del Licenciatario en violación de los términos del presente contrato.
+
+Jurisdicción y Ley Aplicable:
+Este contrato se regirá e interpretará de acuerdo con las leyes del Colombia, excluyendo cualquier conflicto de disposiciones legales. Cualquier disputa que surja de este contrato será sometida a la jurisdicción exclusiva de los tribunales del Colombia y las partes consienten expresamente en la jurisdicción de dichos tribunales.
+
+Cláusula de Aceptación de Riesgos:
+El Licenciatario acepta expresamente que el uso del Software conlleva riesgos y reconoce que SES no será responsable de ningún daño o pérdida derivada del uso del Software, incluyendo, entre otros, pérdida de datos, interrupción del negocio o daños similares.
+
+
+Legislación Aplicable:
+El presente Contrato se regirá y será interpretado de acuerdo con las leyes de Colombia, excluyendo cualquier conflicto de disposiciones legales y la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Mercaderías.
+
+a. Organismos Públicos:
+Si el Cliente es un organismo público, este Contrato se regirá por las leyes aplicables de la jurisdicción del Cliente.
+
+b. Entidades No Gubernamentales:
+Este Contrato se regirá exclusivamente por la legislación estatal de Colombia, con exclusión de sus respectivos principios de elección de legislación.
+
+Resolución de Controversias:
+Las partes se comprometen a seguir los siguientes procesos de resolución de controversias:
+
+a. Compensación Equitativa:
+Ambas partes tendrán derecho a buscar un mandato, una acción particular u otra compensación justa en cualquier tribunal con jurisdicción competente, sin la obligación de aportar una fianza o de demostrar daños como requisito necesario para su adopción.
+
+b. Agencias del Gobierno:
+El presente Contrato estará sujeto a la Ley de Disputas Contractuales de 2023 y a sus posteriores modificaciones.
+
+c. Otras Instituciones Públicas:
+SES cumplirá con los procedimientos de solución de controversias obligatorios en virtud de la legislación aplicable.
+
+d. Arbitraje:
+Salvo lo dispuesto anteriormente, las partes podrán someterse a arbitraje vinculante para solucionar cualquier controversia derivada o relacionada con el presente Contrato que no se pueda solventar mediante negociación. El procedimiento arbitral se regirá por las leyes colombianas y resoluciones de la superintendencia de industria y comercin y se llevará a cabo en la ciudad de Pereira, Risaralda Colombia. El idioma del arbitraje será el español.
+
+Fuerza Mayor:
+Ninguna de las partes será responsable del incumplimiento o retraso en el cumplimiento del presente Contrato debido a causas ajenas a su control razonable, incluyendo casos fortuitos, guerra, huelgas, conflictos laborales, ataques cibernéticos, leyes, normas, órdenes gubernamentales o cualquier otro supuesto de fuerza mayor.
+
+Contratista Independiente:
+SES será en todo momento un contratista independiente. Nada de lo contenido en el presente Contrato crea una relación de empresa/trabajador, cliente/representante o de empresa conjunta entre SES o su distribuidor autorizado y el Cliente.
+
+Notificaciones:
+El Cliente podrá enviar las notificaciones exigidas en virtud de este Contrato a SES a la dirección siguiente:
+
+Consultoría SES
+A la atención de: Departamento Legal
+Carrera 27 12 98.
+Teléfono: +57 305 439 2506
+Correo electrónico: ses@workmail.com
+
+
+
+ANEXO A GLOSARIO DE TÉRMINOS
+
+El siguiente glosario de términos se aplicará a todas las Ofertas y servicios de SES que esta pueda facilitar a sus clientes. Algunas Ofertas o Servicios de SES pueden no encontrarse dentro del ámbito de aplicación de este Contrato. No tenga en cuenta los términos que no sean aplicables a Ofertas o Servicios de SES en virtud de este Contrato.
+
+Por «Filial» se entenderá cualquier entidad que directa o indirectamente (i) controle, (ii) sea controlada o (iii) se encuentre bajo el Control común de una de las partes; por «Control» se entenderá tener más del 50 % de las acciones con derecho a voto u otras participaciones con derecho a voto en la Entidad controlada.
+
+Por «API» se entenderá la interfaz de programación de aplicaciones.
+
+Por «Sitio web de SES» se entenderá la dirección www.consultoriases.com y cualesquiera sitios web relacionados o sucesores.
+
+Por «Código(s) de autorización» se entenderá toda clave, número de autorización, código de habilitación o activación, credencial de inicio de sesión, código de credencial, nombre de usuario y contraseña, o bien cualquier otro mecanismo necesario para el uso de una Oferta de SES.
+
+Por «Beta» se entenderá cualquier versión alfa, beta u otra versión preliminar de un Producto.
+
+Por «Servicios en la nube» se entenderán los Servicios en línea y SES Managed Cloud Services.
+
+Por «Contenido» se entenderán datos, imágenes, fotografías, animaciones, vídeo, audio, texto, mapas, bases de datos, modelos de datos, hojas de cálculo, interfaces de usuario, componentes de gráficos, iconos, software y otros recursos utilizados junto con las Ofertas y Servicios de SES.
+
+Por «Control» se entenderá tener más del 50 % de las acciones con derecho a voto u otras participaciones con derecho a voto en la Entidad controlada.
+
+Por «Contenido del cliente» se entenderá cualquier Contenido que el Cliente proporcione, utilice o desarrolle en relación con el uso que el Cliente haga de las Ofertas o Servicios de SES, incluidas las Aplicaciones de valor añadido. Los Contenidos del Cliente excluyen cualesquiera comentarios, sugerencias o peticiones de mejora que el Cliente facilite a SES.
+
+Por «Datos» se entenderán los conjuntos de datos digitales comercialmente disponibles, entro otros, datos vectoriales geográficos, informes de datos ráster o atributos tabulares asociados, que SES combine con otras Ofertas de SES o que facilite de manera independiente.
+
+Por «Productos entregados» se entenderá cualquier cosa que SES entregue al Cliente como consecuencia de la prestación de Servicios profesionales.
+
+Por «Documentación» se entenderá toda la documentación de referencia del usuario que SES proporcione con un Producto entregado o una Oferta de SES.
+
+Por "SES Managed Cloud Services" o se entenderá una infraestructura de nube específica para el cliente, una plataforma de Software, Datos y red que SES aloja, administra y pone a disposición del Cliente o de los usuarios finales del Cliente a través de Internet.
+
+Por «Oferta(s) de SES» se entenderá cualquier Producto o Documentación. Si SES presta Servicios formativos o profesionales directamente al Cliente, las Ofertas de SES también incluirán Productos entregados y Materiales formativos. Las Ofertas de SES excluyen los Servicios y el Contenido de terceros.
+
+Por «SIG» se entenderá un sistema de información geográfica.
+
+Por «Mantenimiento» se entenderá un programa de suscripción que SES facilita y que da derecho al Cliente a actualizaciones de Productos y otros beneficios tales como acceso al soporte técnico y acceso a recursos de aprendizaje basados en la web de ritmo personalizado.
+
+Por «Código malicioso» se entenderán virus informáticos, gusanos, bombas de tiempo, troyanos o cualquier otro código informático, archivos, denegación de servicio o programas cuyo objeto sea interrumpir, destruir o limitar la funcionalidad de cualquier software, hardware o equipos de telecomunicaciones.
+
+Por «Servicios en línea» se entenderá cualquier sistema geoespacial basado en Internet, comercialmente disponible, que SES facilite a tenor del presente Contrato, incluidas aplicaciones y API asociadas para almacenar, administrar, publicar y usar mapas, datos y otra información. Online Services no incluye Datos ni Contenidos.
+
+Por «Documentos de pedido» se entenderá un presupuesto de venta, un presupuesto de renovación de mantenimiento, un pedido de compra, una propuesta, una Orden de tarea o cualquier otro documento que identifique las Ofertas, las actualizaciones o los Servicios de SES que encargue el Cliente.
+
+Por «Licencia perpetua» se entenderá una licencia para utilizar una versión de la Oferta de SES, por la cual se habrán pagado los correspondientes precios de licencia, con carácter indefinido, a menos que SES o el Cliente procedan a extinguir la misma, en las condiciones fijadas en el presente Contrato.
+
+Por «Producto(s)» se entenderán el Software, los Datos y los Servicios en línea.
+
+Por «Servicios profesionales» se entenderán los servicios de desarrollo o consultoría que SES preste al Cliente.
+
+Por «Muestra(s)» se entenderán los códigos de muestra, aplicaciones de muestra, complementos o muestras de extensiones de los Productos.
+
+Por «Servicio(s)» se entenderá Mantenimiento. Si SES presta SES Managed Cloud Services, Servicios de formación o profesionales directamente al Cliente, los Servicios también incluirán SES Managed Cloud Services y los Servicios de formación y profesionales.
+
+Por «Software» se entenderá cualquier software propio listo para usar, con exclusión de Datos, al que se acceda o se descargue desde un sitio web autorizado por SES o que SES facilite en cualquier medio en cualquier formato, incluidos copias de seguridad, actualizaciones, paquetes de servicio, parches, correcciones urgentes o copias fusionadas permitidas.
+
+Por «Especificaciones» se entenderá (i) la Documentación para Software y los Servicios en línea, (ii) el alcance del trabajo establecido en cualquier Orden de tarea, o (iii) las descripciones de cursos publicadas por SES para la Formación.
+
+Por «Orden/órdenes de tarea» se entenderá un Documento de pedido para Servicios.
+
+Por «Licencia temporal» se entenderá una licencia para el uso de una Oferta de SES durante un plazo de tiempo limitado (en lo sucesivo, «Plazo»).
