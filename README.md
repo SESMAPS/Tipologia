@@ -1,5 +1,11 @@
+
 # Ejecutor de TipologIA
-[![Ejecutable disponible:](https://github.com/SESMAPS/Ejecutor102/actions/workflows/deployment.yml/badge.svg?branch=v103)](https://github.com/SESMAPS/Ejecutor102/actions/workflows/deployment.yml)
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCjCe0F7HBLkFW8pCa5F4xFA?style=social)](https://www.youtube.com/@consultoriases)
+[![Telegram](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](t.me/sesmaps)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ses_maps)
+
+
 
 ![Logo](https://consultoriases.com/wp-content/uploads/2022/06/SES_Black.png)
 
@@ -91,6 +97,38 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 ![Logo](img/5_esfericas.png)
 ![Logo](img/6_acerda.png)
 
+## Conoce más sobre  *TipologIA by SES*
+## Conoce más sobre *TipologIA by SES*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">TipologIA: IA para Reconocimiento Catastral</h3>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=qWgsePWo7zc" target="_blank"><img src="https://img.youtube.com/vi/qWgsePWo7zc/0.jpg" width="400" alt="TipologIA"></a>
+<p>
+<a href="https://www.youtube.com/watch?v=qWgsePWo7zc" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>TipologIA: Nuestra inteligencia artificial pionera en reconocimiento catastral, capaz de identificar y categorizar las diferentes tipologías constructivas con precisión. ¡Una verdadera revolución en el mundo del catastro multipropósito! 🏘 Completamente compatible con el modelo de datos LADM-COL🤖</p>
+</div>
+</td>
+<td width="50%">
+ <br>
+<h3 align="center">Presentación de TipologIA</h3>
+<div align="center">
+<a href="https://youtu.be/G88yQz17ZlY?si=qJaARu-sb6pxYnQd&t=2205" target="_blank"><img src="https://img.youtube.com/vi/G88yQz17ZlY/0.jpg" width="400" alt="Presentación de TipologIA"></a>
+<br>
+<p>
+<a href="https://youtu.be/G88yQz17ZlY?si=qJaARu-sb6pxYnQd&t=2205" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Presentación detallada de TipologIA, nuestra IA para reconocimiento catastral. Descubre cómo esta tecnología revoluciona el catastro multipropósito y se integra perfectamente con el modelo de datos LADM-COL.</p>
+</div>
+</table>
+</div>
+<br>
 
 ## Para desarrollo sigue estos pasos:
 
