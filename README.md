@@ -98,7 +98,6 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 ![Logo](img/6_acerda.png)
 
 ## Conoce más sobre  *TipologIA by SES*
-## Conoce más sobre *TipologIA by SES*
 <table>
 <tr>
 <td width="50%">
