@@ -9,7 +9,7 @@ TÉRMINOS Y CONDICIONES GENERALES DE USO DEL SOFTWARE "EJECUTOR DE TIPOLOGÍA"
 Este acuerdo (los "Términos") regula el uso del software denominado "Ejecutor de TipologIA" (el "Software") desarrollado por Consultoría SES (la "Compañía o SES").
 
 ADQUISICIÓN DEL SOFTWARE
-El Licenciatario puede adquirir el Software de dos formas:
+El Comprador puede adquirir el Software de dos formas:
 a) Comprando a la Compañía el programa ejecutable "Ejecutor" para los sistemas operativos Linux (Ubuntu 22) y Windows 11.
 b) Comprando a la Compañía los ejecutables, código fuente, modelo de conocimiento, entrenador, documentación del código, así como la cesión de derechos patrimoniales y transferencia de la marca TipologIA.
 USO DEL SOFTWARE
@@ -19,11 +19,11 @@ El Software, incluyendo su código fuente, documentación, diseños y estructura
 LIMITACIÓN DE RESPONSABILIDAD
 La Compañía no se hace responsable por resultados erróneos, confusiones o mal funcionamiento del Software en caso de que el volumen de datos a procesar sea excesivo. El Software se proporciona "TAL CUAL" sin garantías de ningún tipo, ya sean expresas o implícitas.
 ACTUALIZACIONES Y SOPORTE
-La Compañía solo proporcionará actualizaciones del Software por petición del Licenciatario y si se establece un contrato adicional con un valor que se estimará según el requerimiento.
+La Compañía solo proporcionará actualizaciones del Software por petición del Comprador y si se establece un contrato adicional con un valor que se estimará según el requerimiento.
 LEGISLACIÓN APLICABLE
 Estos Términos se regirán e interpretarán de acuerdo con las leyes vigentes en Colombia.
 
-Al adquirir y utilizar el Software "Ejecutor de TipologIA", el Licenciatario acepta y se obliga por los presentes Términos y Condiciones.
+Al adquirir y utilizar el Software "Ejecutor de TipologIA", el Comprador acepta y se obliga por los presentes Términos y Condiciones.
 
 TÉRMINOS Y CONDICIONES ESPECIFICOS DE USO DEL SOFTWARE "EJECUTOR DE TIPOLOGÍA"
 
@@ -38,7 +38,7 @@ b. Hacer copias de respaldo del Software.
 c. Instalar y usar la versión más reciente del Software junto con la versión anterior durante un período de transición razonable no superior a 6 meses.
 
 
-1.3 Restricciones de uso. Salvo que se permita expresamente en este Contrato, el Cliente no podrá:
+1.3 Restricciones de uso. Salvo que se permita expresamente en el Contrato de compra, el Cliente no podrá:
 a. Vender, arrendar, sublicenciar, distribuir o asignar el Software.
 b. Proporcionar acceso directo al Software a terceros, excepto mediante Aplicaciones de Valor Añadido.
 c. Realizar ingeniería inversa, descompilar o desensamblar el Software.
@@ -47,7 +47,7 @@ e. Utilizar el Software de forma que infrinja derechos de propiedad intelectual 
 f. Eliminar o ocultar avisos de derechos de autor o marcas comerciales en el Software.
 g. Utilizar partes individuales del Software de forma independiente.
 h. Incorporar partes del Software en productos que compitan con el Software.
-i. Someter el Software a licencias de código abierto o de bases de datos abiertas.
+i. Someter el Software a licencias de licencias privativas o de bases de datos privativas.
 
 1.4 Propiedad intelectual. El Software, incluyendo su código fuente, documentación y materiales relacionados, es propiedad intelectual de SES y está protegido por las leyes de derechos de autor y otras leyes aplicables. Todos los derechos no otorgados expresamente quedan reservados para SES.
 
@@ -62,7 +62,7 @@ Cláusula 3 - DATOS
 a. Utilizar los Datos para otros productos o servicios no autorizados.
 b. Utilizar los Datos para compilar, mejorar, verificar o complementar bases de datos que vayan a ser revendidas o distribuidas a terceros.
 c. Permitir el uso de los Datos por parte de terceros, excepto mediante Aplicaciones de Valor Añadido.
-3.3 Derechos de atribución. El Cliente incluirá una declaración de atribución reconociendo a SES o sus licenciantes como la fuente de los Datos utilizados en cualquier representación o producto derivado de los mismos.
+3.3 Derechos de atribución. El Cliente incluirá una declaración de atribución reconociendo a SES o sus licenciantes como la fuente de los Datos/Modelos utilizados en cualquier representación o producto derivado de los mismos.
 
 Cláusula 4 - TÉRMINO Y TERMINACIÓN
 4.1 Término. Este Contrato entrará en vigor en la fecha de aceptación, e instalación y uso por parte del Cliente y permanecerá vigente hasta su terminación de conformidad con lo establecido en esta cláusula.
@@ -82,19 +82,19 @@ Cláusula 6 - INDEMNIZACIÓN
 6.2 Recurso único. Esta cláusula establece la única responsabilidad de SES y el recurso exclusivo del Cliente con respecto a reclamaciones de infracción.
 6.3 Indemnización. SES no realizará indenmización alguna al Clinte por baja precisión de la inteligencia artificial, que es la base del Software "Ejecutor".
 Cláusula de Limitación de Responsabilidad Extendida:
-SES no será responsable ante el Licenciatario por ningún daño indirecto, incidental, especial, punitivo o consecuente, incluyendo, entre otros, lucro cesante, pérdida de datos, interrupción del negocio o daños similares, incluso si SES ha sido advertida sobre la posibilidad de dichos daños. La responsabilidad total de SES frente al Licenciatario por cualquier reclamación bajo este contrato, ya sea en contrato, agravio, garantía o cualquier otra teoría legal, estará limitada al monto total pagado por el Licenciatario por el Software.
+SES no será responsable ante el Comprador por ningún daño indirecto, incidental, especial, punitivo o consecuente, incluyendo, entre otros, lucro cesante, pérdida de datos, interrupción del negocio o daños similares, incluso si SES ha sido advertida sobre la posibilidad de dichos daños. La responsabilidad total de SES frente al Comprador por cualquier reclamación bajo este contrato, ya sea en contrato, agravio, garantía o cualquier otra teoría legal, estará limitada al monto total pagado por el Comprador por el Software.
 
 Cláusula de Exención de Garantías Extendida:
-El Licenciatario reconoce y acepta que SES no otorga ninguna garantía, expresa o implícita, con respecto al rendimiento, la precisión, la idoneidad para un propósito particular, la comercialización o la no infracción del Software. SES no garantiza que el Software sea libre de errores o que su funcionamiento será ininterrumpido. El Licenciatario asume todos los riesgos asociados con el uso del Software.
+El Comprador reconoce y acepta que SES no otorga ninguna garantía, expresa o implícita, con respecto al rendimiento, la precisión, la idoneidad para un propósito particular, la comercialización o la no infracción del Software. SES no garantiza que el Software sea libre de errores o que su funcionamiento será ininterrumpido. El Comprador asume todos los riesgos asociados con el uso del Software.
 
 Cláusula de Indemnización Recíproca:
-El Licenciatario acepta indemnizar y eximir de responsabilidad a SES, sus directores, empleados y agentes de cualquier reclamación, demanda, pérdida, responsabilidad, daño o gasto (incluidos honorarios legales razonables) derivados del uso del Software por parte del Licenciatario en violación de los términos del presente contrato.
+El Comprador acepta indemnizar y eximir de responsabilidad a SES, sus directores, empleados y agentes de cualquier reclamación, demanda, pérdida, responsabilidad, daño o gasto (incluidos honorarios legales razonables) derivados del uso del Software por parte del Comprador en violación de los términos del presente contrato.
 
 Jurisdicción y Ley Aplicable:
 Este contrato se regirá e interpretará de acuerdo con las leyes del Colombia, excluyendo cualquier conflicto de disposiciones legales. Cualquier disputa que surja de este contrato será sometida a la jurisdicción exclusiva de los tribunales del Colombia y las partes consienten expresamente en la jurisdicción de dichos tribunales.
 
 Cláusula de Aceptación de Riesgos:
-El Licenciatario acepta expresamente que el uso del Software conlleva riesgos y reconoce que SES no será responsable de ningún daño o pérdida derivada del uso del Software, incluyendo, entre otros, pérdida de datos, interrupción del negocio o daños similares.
+El Comprador acepta expresamente que el uso del Software conlleva riesgos y reconoce que SES no será responsable de ningún daño o pérdida derivada del uso del Software, incluyendo, entre otros, pérdida de datos, interrupción del negocio o daños similares.
 
 
 Legislación Aplicable:

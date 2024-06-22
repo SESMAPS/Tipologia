@@ -52,7 +52,7 @@ Para finalizar hemos incorporado la utilidad que le permite evaluar la precisió
 
 ## Soluciones para Catastro
 
-Diseñamos productos y servicios especializados que simplifican el reconocimiento predial, optimizan los procesos de conservación catastral y facilitan la difusión de información. Nuestra prioridad es garantizar la interoperabilidad de los datos, asegurando una integración fluida con diversas entidades. Con enfoque en la eficiencia y precisión, proporcionamos soluciones tecnológicas que potencian la gestión integral de la información catastral.
+Diseñamos productos y servicios especializados que simplifican el reconocimiento catastral en Colombia, optimizan los procesos de conservación catastral y facilitan la difusión de información. Nuestra prioridad es garantizar la interoperabilidad de los datos, asegurando una integración fluida con diversas entidades. Con enfoque en la eficiencia y precisión, proporcionamos soluciones tecnológicas que potencian la gestión integral de la información catastral.
 >1. Visores web geográficos
 >2. Imágenes 360 panorámicas
 >3. Imágenes drone oblícuas
@@ -65,7 +65,7 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 
 ## Adquirir el programa
 > [!IMPORTANT]
->  La solución de IA para Catastro que ofrecemos consta de dos programas:
+>  La solución de Inteligencia Artificial para para Catastro que ofrecemos consta de dos programas:
 >El primero es Entrenador, el cual le permitirá reentrenar nuestro modelo de inteligencia artificial TipologIA para ajustarlo a sus necesidades<br>
 >El Segundo es el Ejecutor, el cual es el programa de escritorio (Linux/Windows), que le permitirá realizar las clasificaciones.<br>
 >Por lo que al comprar TipologIA recibirá ambos programas más lo siguiente:<br>
@@ -91,7 +91,7 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 
 > [!NOTE]
 > ¿Cómo acceder al programa?:<br>
-> Pongase en contacto con nosotros y programemos la videoconferencia
+> Pongase en contacto con nosotros y programemos la videoconferencia<br>
 > **Celular:** +57 305 439 2506<br>
 > **Correo:** [ses@workmail.com](mailto:ses@workmail.com)<br>
 > **Página Web:** [consultoriases.com](https://consultoriases.com)
