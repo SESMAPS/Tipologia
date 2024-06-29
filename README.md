@@ -100,7 +100,7 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 ---
 ## Así es el Ejecutor de TipologIA
 ![Logo](img/2-Procesar.png)
-![Logo](img/3-Mapa.png)
+![Logo](img/3_Mapa.png)
 ![Logo](img/4_Evaluar.png)
 ![Logo](img/5_esfericas.png)
 ![Logo](img/6_acerda.png)
