@@ -12,10 +12,10 @@
 > [!IMPORTANT]
 > **Versión del programa Ejecutor TipologIA:** 1.0.6 <br>
 > **Changelog :**  
->  Obtenga solo la tipologia constructiva o incluir tambíen los descriptores <br>
+> Obtenga solo la tipologia constructiva o incluir tambíen los descriptores <br>
 > Cálculo de las matrices de confusión para los descriptores <br>
-> El archivo "Resultados" contiene una columna que le permitirá ver en un popup el resultado de la imagen predicha <br>
->Nueva pestaña de mapa, para ver los resultados directamente en el ejecutor
+> El archivo "Resultados" contiene una columna que le permitirá ver en un pop-up el resultado de la imagen predicha <br>
+> Nueva pestaña de mapa, para ver los resultados directamente en el ejecutor. Vea los datos según el modelo LADM_Col
 
 ![Logo](img/1_inicio.png)
 
