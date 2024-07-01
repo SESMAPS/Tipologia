@@ -17,7 +17,7 @@
 > El archivo "Resultados" contiene una columna que le permitirá ver en un pop-up el resultado de la imagen predicha <br>
 > Nueva pestaña de mapa, para ver los resultados directamente en el ejecutor. Vea los datos según el modelo LADM_Col
 
-![Logo](img/1_inicio.png)
+![Logo](img/Inteligencia_Artificial_Catastro.png)
 
 
 > [!NOTE]
@@ -36,16 +36,17 @@
 
 ## Descripción
 
-El Ejecutor de tipologIA es la primer herramienta de inteligencia artificial para reconocimiento catastral en Colombia, esta le  permitirá a los Gestores/Operadores Catastrales del país, procesar por grandes cantidades de imagenes de construcciones, para realizar la clasificación de la tipología constructiva, y sus respectivos descriptores, como por ejemplo:
+TipologIA es la primer herramienta de inteligencia artificial para reconocimiento catastral en Colombia, esta le  permitirá a los Gestores/Operadores Catastrales del país, procesar por grandes cantidades de imagenes de construcciones, para realizar la clasificación de la tipología constructiva, y sus respectivos descriptores, como por ejemplo:
 >1. Estado de conservación
 >2. Número de pisos
 >3. Estado de la fachada
 >4. Material del techo
 
-El ejecutor también extrae las coordenadas de la imagen (en caso de e tenerla), lo cual facilitará la visualización de los resultados en software [SIG](https://qgis.org/).
+TipologIA cuenta con dos programas principales, el primero llamado ***Ejecutor de TipologIA***,que es el progrma multiplataforma para trabajo en oficina,el cual también extrae las coordenadas de la imagen (en caso de e tenerla),para facilitar procesos posteriores en software [SIG](https://qgis.org/).
 El resultado es un archivo de texto plano compatible con el modelo de levantamiento de datos LADM-COL. con el resultado de la clasificación para cada una de las imágenes.<br>
 Ejecutor de tipologIA, incluye la posibilidad para procesar imágenes panorámicas 360 [PhotoSphere](https://en.wikipedia.org/wiki/Panorama), las cuales conocemos generalmente como StreetView o recorridos virtuales.
-Para finalizar hemos incorporado la utilidad que le permite evaluar la precisión de nuestro modelo de inteligencia artificial [TipologIA](https://consultoriases.com/inteligencia-artificial-catastro/) para el municipio en que decida ejecutarlo
+Para finalizar hemos incorporado la utilidad que le permite evaluar la precisión de nuestro modelo de inteligencia artificial [TipologIA](https://consultoriases.com/inteligencia-artificial-catastro/) para el municipio en que decida ejecutarlo<br>
+El segundo programa se llama ***Entrenador de TipologIA*** el cual permitirá al gestor/operador catastral que adquiera el programa, extender sus funcionalidades para ser usado en los demás municipios del País.
 
 
 ---
@@ -97,13 +98,26 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 > **Página Web:** [consultoriases.com](https://consultoriases.com)
 
 
+## Inteligencia Artificial para Catastro
+> [!IMPORTANT] <br>
+> ***Preguntas frecuentes***
+> ¿Quién hace Inteligencia Artificial para Catastro?:<br>
+> Es desarrollada por David Vasquez, y Juan Restrepo en Consultoria SES<br>
+> ¿Cómo se llama la Inteligencia Artificial para Catastro?:<br>
+> La hemos registrado bajo el nombre de TipologIA <br>
+> ¿Es la primer Inteligencia Artificial para Catastro de Colombia?:<br>
+> Sí, TipologIA es la primer inteligencia Artificial comercial para reconocimiento catastral en Colombia. Actualmente la versión estable es la 1.0.6 de Junio de 2024<br>
+
+
 ---
 ## Así es el Ejecutor de TipologIA
-![Logo](img/2-Procesar.png)
-![Logo](img/3-Mapa.png)
-![Logo](img/4-Evaluar.png)
-![Logo](img/5-Esfericas.png)
-![Logo](img/6-AcercaDe.png)
+
+***Inteligencia Artificial para Catastro***
+![Logo](img/Inteligencia_Artificial_Catastro_Procesar.png)
+![Logo](img/Inteligencia_Artificial_Catastro_Mapa.png)
+![Logo](img/Inteligencia_Artificial_Catastro_Confianza.png)
+![Logo](img/Inteligencia_Artificial_Catastro_StreetView.png)
+![Logo](img/Inteligencia_Artificial_Catastro_Acerca.png)
 
 ## Conoce más sobre  *TipologIA by SES*
 <table>
@@ -194,6 +208,10 @@ Para utilizar esta herramienta, siga estos pasos:
 ## Contribución
 
 Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
+
+> [!IMPORTANT]
+> Comparte nuestras redes sociales a tus conocidos
+> Contáctanos para conocer más de nuestra inteligencia Artificial para Catastro
 
 1. Haz un fork del repositorio.
 2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
