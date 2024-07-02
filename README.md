@@ -117,11 +117,11 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 ## Así es el Ejecutor de TipologIA by SES
 
 ***Inteligencia Artificial para Catastro***
-![Logo](img/Inteligencia_Artificial_Catastro_Procesar.png)
-![Logo](img/Inteligencia_Artificial_Catastro_Mapa_IA.png)
-![Logo](img/Inteligencia_Artificial_Catastro_Confianza.png)
-![Logo](img/Inteligencia_Artificial_Catastro_StreetView.png)
-![Logo](img/Inteligencia_Artificial_Catastro_Acerca.png)
+![CATASTRO](img/Inteligencia_Artificial_Catastro_Procesar.png)
+![IA CATASTRO](img/Inteligencia_Artificial_Catastro_MapaIA.png)
+![Inteligencia Artificial](img/Inteligencia_Artificial_Catastro_Confianza.png)
+![TipologIA by SES](img/Inteligencia_Artificial_Catastro_StreetView.png)
+![LADM COL](img/Inteligencia_Artificial_Catastro_Acerca.png)
 
 ## Conoce más sobre  *TipologIA by SES*
 <table>
