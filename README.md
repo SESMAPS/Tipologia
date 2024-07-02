@@ -118,7 +118,7 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 
 ***Inteligencia Artificial para Catastro***
 ![Logo](img/Inteligencia_Artificial_Catastro_Procesar.png)
-![Logo](img/Inteligencia_Artificial_Catastro_Mapa.png)
+![Logo](img/Inteligencia_Artificial_Catastro_Mapa_IA.png)
 ![Logo](img/Inteligencia_Artificial_Catastro_Confianza.png)
 ![Logo](img/Inteligencia_Artificial_Catastro_StreetView.png)
 ![Logo](img/Inteligencia_Artificial_Catastro_Acerca.png)
