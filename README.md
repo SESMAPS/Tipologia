@@ -64,7 +64,7 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 
 
 
-## Adquirir el programa
+## Adquirir el programa TipologIA by SES
 > [!IMPORTANT]
 >  La solución de Inteligencia Artificial para para Catastro que ofrecemos consta de dos programas:
 >El primero es Entrenador, el cual le permitirá reentrenar nuestro modelo de inteligencia artificial TipologIA para ajustarlo a sus necesidades<br>
@@ -114,7 +114,7 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 
 
 ---
-## Así es el Ejecutor de TipologIA
+## Así es el Ejecutor de TipologIA by SES
 
 ***Inteligencia Artificial para Catastro***
 ![Logo](img/Inteligencia_Artificial_Catastro_Procesar.png)
