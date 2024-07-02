@@ -103,12 +103,14 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 
 > [!IMPORTANT]
 > ***Preguntas frecuentes***
-> ¿Quién hace Inteligencia Artificial para Catastro?:<br>
+> 1. ¿Quién hace Inteligencia Artificial para Catastro?:<br>
 > Es desarrollada por David Vasquez, y Juan Restrepo en Consultoria SES<br>
-> ¿Cómo se llama la Inteligencia Artificial para Catastro?:<br>
+> 2. ¿Cómo se llama la Inteligencia Artificial para Catastro?:<br>
 > La hemos registrado bajo el nombre de TipologIA <br>
-> ¿Es la primer Inteligencia Artificial para Catastro de Colombia?:<br>
+> 3. ¿Es la primer Inteligencia Artificial para Catastro de Colombia?:<br>
 > Sí, TipologIA es la primer inteligencia Artificial comercial para reconocimiento catastral en Colombia. Actualmente la versión estable es la 1.0.6 de Junio de 2024<br>
+> 4. ¿Es compatible con ESRI?:<br>
+> Sí, los resultados son compatibles con el software de ESRI, Sin embargo recomendamos emplear [Qgis](https://qgis.org/) por su excelente compatibilidad con [el modelo LADM-Col]( https://plugins.qgis.org/plugins/asistente_ladm_col/) <br>
 
 
 ---
