@@ -99,7 +99,9 @@ Diseñamos productos y servicios especializados que simplifican el reconocimient
 
 
 ## Inteligencia Artificial para Catastro
-> [!IMPORTANT] <br>
+
+
+> [!IMPORTANT]
 > ***Preguntas frecuentes***
 > ¿Quién hace Inteligencia Artificial para Catastro?:<br>
 > Es desarrollada por David Vasquez, y Juan Restrepo en Consultoria SES<br>
